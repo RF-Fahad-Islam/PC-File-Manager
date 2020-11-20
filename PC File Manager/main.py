@@ -1,4 +1,9 @@
-
+print('''
+Author: Fahad
+This is not a GUI it is the main program
+GUI : Go to PC_File_Manager.py 
+(PC_File_Manager.py is the upgraded version of this main program)
+''')
 
 import os
 import time
