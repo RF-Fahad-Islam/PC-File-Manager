@@ -2,7 +2,6 @@
 
 It is a **User friendly** **GUI** program that helps you managed your unfolded files in a folder respective their extensions **{Such as : .jpg, .doc, .xlsx, .html ....}** automatically. Means it's can arrange suppose the .doc to a **DOC** folder etc. You don't need to worry about the folders clutter. It's create as many folders as it needs processing the extensions.
 
-**Note: I need the help of somebody who can help me upgrade the GUI**
 ## Important Notice
 **For using these program you need to download all files of above. Else these program may through a error.**
 ## Requirements
@@ -80,7 +79,4 @@ Email: rsfahad97@gmail.com
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) [Made by Fahad]
 
-
-## Thanks for visiting
-**Please help me to improve the project further.**
 
